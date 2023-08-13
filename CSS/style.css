@@ -1,0 +1,52 @@
+
+
+header{
+    min-height: 100vh;
+   background:
+   
+   url(../image/back.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+
+.onnne{
+    color: black;
+    font-size: 3rem;
+    font-weight: 200px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+onnne{
+    
+    color: black;
+    font-size:5rem;
+   
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+   
+}
+
+
+
+.city img{
+   margin-bottom: 7px;
+}
+
+
+
+.city h3 , .city p{
+    margin-bottom: 20px;
+    text-align: center;
+  
+    
+}
+
+
